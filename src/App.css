@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 20px;
+  padding-top: 20px;
+}
+.add-button {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.footer-button {
+  display: flex;
+  justify-content: end;
+}
+
+.true {
+  color: green;
+}
+
+.false {
+  color: red;
+}
+
+.list-group-item {
+  padding-left: 0;
+}
+
+.group {
+  padding-left: 0px !important;
+}
+
+.question-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.add-button {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.quiz-header{
+  display: flex;
+  justify-content: space-between;
+}

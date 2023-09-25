@@ -1,0 +1,99 @@
+{
+  "quizzes": [
+    {
+      "created": "9/25/2023",
+      "description": "First One",
+      "id": "f4286bfb-3556-4447-8334-23a0bd4e2c2d",
+      "modified": "9/25/2023",
+      "questions_answers": [
+        {
+          "answer_id": null,
+          "answers": [
+            {
+              "id": "9f6501f0-3b26-4f37-8b3c-4f2ca2641339",
+              "is_true": true,
+              "text": "Mars"
+            },
+            {
+              "id": "3bf0c7c7-b77f-4dc2-a5a0-f4e6c4f2f3d6",
+              "is_true": false,
+              "text": "Mercury"
+            }
+          ],
+          "feedback_false": "False Answer",
+          "feedback_true": "True Answer",
+          "id": "471319fb-a9b8-48e4-a31a-c77012bec7ac",
+          "text": "Which planet is known as the 'Red Planet'?"
+        }
+      ],
+      "score": 10,
+      "title": "Quiz One Changed",
+      "url": "https://www.youtube.com/watch?v=37BRqSX7eiQ&list=PLYpJKvLDuJhipnhVyfDr6Mpz8NLfJ7kyc&index=3"
+    },
+    {
+      "created": "9/25/2023",
+      "description": "Second Quiz",
+      "id": "d33fabd7-ef41-4351-be03-b16732601b0a",
+      "modified": "9/25/2023",
+      "questions_answers": [
+        {
+          "answer_id": null,
+          "answers": [
+            {
+              "id": "b806959e-b5cb-4a10-b193-60bd3777cf46",
+              "is_true": false,
+              "text": "Melbourne"
+            },
+            {
+              "id": "4cb27aa9-8bb2-44f8-a244-5ca2db747372",
+              "is_true": true,
+              "text": "Canberra"
+            }
+          ],
+          "feedback_false": "WA",
+          "feedback_true": "ACC",
+          "id": "c146dcca-b95b-4e08-b744-6f6d4539a985",
+          "text": "What is the capital of Australia?"
+        }
+      ],
+      "score": 123,
+      "title": "Quiz Two",
+      "url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk&list=PLrhpb4TQr-uKzxOB1C_9x-Ysrj2WRMZN_"
+    },
+    {
+      "created": "9/25/2023",
+      "description": "Another Good Quiz",
+      "id": "136e7cc5-7fc8-4b4b-ba35-7d0250d60462",
+      "modified": "9/25/2023",
+      "questions_answers": [
+        {
+          "answer_id": null,
+          "answers": [
+            {
+              "id": "a10c6b49-2bbe-4468-a936-61057c2518ed",
+              "is_true": true,
+              "text": "Helium"
+            },
+            {
+              "id": "3e0e6a4b-51b2-47c6-8122-714b282bc9e8",
+              "is_true": false,
+              "text": "Oxygen"
+            },
+            {
+              "id": "2227f4cb-6205-4d07-9db8-2fcd86123437",
+              "is_true": false,
+              "text": "Nitrogen"
+            }
+          ],
+          "feedback_false": "WA",
+          "feedback_true": "TRUE",
+          "id": "0ca5a637-f1bb-4bdf-a7cc-19209c159d8f",
+          "text": "Which of the following elements is a noble gas?"
+        }
+      ],
+      "score": 333,
+      "title": "Quiz Three",
+      "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8&list=PLrhpb4TQr-uKzxOB1C_9x-Ysrj2WRMZN_&index=2"
+    }
+  ]
+}
